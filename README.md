@@ -15,7 +15,7 @@ Esta é uma calculadora simples implementada em Python que permite realizar as q
 
 1. Clone este repositório:
     ```bash
-    git clone https://github.com/alanfernandes1/TEES---ATV1/calculadora-python.git
+    git clone https://github.com/alanfernandes1/TEES-ATV1/calculadora-python.git
     ```
 
 2. Entre no diretório do projeto:
