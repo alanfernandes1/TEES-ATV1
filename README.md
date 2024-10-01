@@ -43,3 +43,23 @@ Digite o primeiro número: 10
 Digite o segundo número: 5
 10 + 5 = 15
 Deseja fazer outra operação? (s/n): n
+```
+
+## Autor
+
+👤 **Alan Fernandes**
+
+* Github: [@https:\/\/github.com\/alanfernandes1](https://github.com/https:\/\/github.com\/alanfernandes1)
+
+## Mostre seu suporte
+
+Dê uma ⭐️ se esse projeto lhe ajudou!
+
+## 📝 Licença
+
+Copyright © 2024 [Alan Fernandes](https://github.com/https:\/\/github.com\/alanfernandes1).<br />
+This project is [MIT](https://github.com/alanfernandes1/TEES-ATV1/blob/main/LICENSE) licensed.
+
+***
+_Esse projeto foi feito com ❤️ por [alanfernandes1](https://github.com/alanfernandes1)_
+
